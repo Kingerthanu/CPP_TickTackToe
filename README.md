@@ -26,7 +26,7 @@ Hardcore 1v1 game vs a AI Bot which actually is kinda cranked. To restart reopen
 
   The Game Will Follow The General Rules Of A Game Of Tic-Tac-Toe And Will Announce A Winner But Cannot Reset The Game Window Yet Without Resetting.
 
-  This Program Taught Me A Lot Of Cool Things About Class Relationships As Well As Signalling. I've Been Trying To Apply Signalling In Many New Projects And Never Realized How Cool The Concept Can Be When Properly Applied.
+  This Program Taught Me A Lot Of Cool Things About Class Relationships As Well As Signalling. I've Been Trying To Apply Signalling In Many New Projects And Never Realized How Cool The Concept Can Be When Properly Applied In A Codebase. This Also Gave Me My First Taste With Function Variables In Which I Never Knew Were A Thing Before This And Got Me Into Deep Research On The Topic As I See Them As Really Cool And Wish To Apply Them In Future Projects.
 
   
   
