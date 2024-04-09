@@ -26,6 +26,8 @@ Hardcore 1v1 game vs a AI Bot which actually is kinda cranked. To restart reopen
 
   The Game Will Follow The General Rules Of A Game Of Tic-Tac-Toe And Will Announce A Winner But Cannot Reset The Game Window Yet Without Resetting.
 
+  This Program Taught Me A Lot Of Cool Things About Class Relationships As Well As Signalling. I've Been Trying To Apply Signalling In Many New Projects And Never Realized How Cool The Concept Can Be When Properly Applied.
+
   
   
 <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/93720612-6275-461a-89b7-7f924917cb94" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/93720612-6275-461a-89b7-7f924917cb94" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/93720612-6275-461a-89b7-7f924917cb94" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/93720612-6275-461a-89b7-7f924917cb94" alt="Cornstarch <3" width="55" height="49">
