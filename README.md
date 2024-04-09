@@ -14,7 +14,20 @@ Hardcore 1v1 game vs a AI Bot which actually is kinda cranked. To restart reopen
 
 **The Breakdown:**
 
+  In This C++ QT Window Application We Seperate Our Window Into 9 Squares For A Simple-Grid For A Game Of Tic-Tac Toe Vs A Bot.
 
+  This Program Works Initially By Creating A QT Window Of Specified Size In Our Defined Main Window Class Type, The Window Itself Will Hold The Logic For The Game Of Tic-Tac-Toe. We Will Set Up Our Main Window's Ports In Order To Allow Emitting To Our Player And Bot Classes For Their Turns.
+
+  Each Block Of Our Game Of Tic-Tac-Toe Will Be Represented In A Square Class As Well In Which Will Hold The Current TypeID Of The Square To Signify Who Has Written On It Or IF Its Open. This Again Will Be A Simple Wrapper Struct In Which Will Be Used In Our MainWindows Turn Calling Executions.
+
+  After Our Driver Creates Our Window, We Will Feed Into A Enemy Class The Window In Which It Will Associate Itself With. This Enemy Class Will Be A Simple Representation Of A Player Execution So The Bot Type Will Inherit From A Q_Object To Allow Emit-Handing.
+
+  After We Link Our Bot, We Will Start The Game By First Asking For The Users Input.
+
+  The Game Will Follow The General Rules Of A Game Of Tic-Tac-Toe And Will Announce A Winner But Cannot Reset The Game Window Yet Without Resetting.
+
+  
+  
 <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/93720612-6275-461a-89b7-7f924917cb94" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/93720612-6275-461a-89b7-7f924917cb94" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/93720612-6275-461a-89b7-7f924917cb94" alt="Cornstarch <3" width="55" height="49"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/93720612-6275-461a-89b7-7f924917cb94" alt="Cornstarch <3" width="55" height="49">
 
 
