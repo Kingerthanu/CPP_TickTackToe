@@ -21,7 +21,7 @@ Hardcore 1v1 game vs a AI Bot which actually is kinda cranked. To restart reopen
 
 ----------------------------------------------
 
-<img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/aa929f9d-a376-4615-b22f-892c31d2d4f9" alt="Cornstarch <3" width="55" height="69"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/aa929f9d-a376-4615-b22f-892c31d2d4f9" alt="Cornstarch <3" width="55" height="69"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/aa929f9d-a376-4615-b22f-892c31d2d4f9" alt="Cornstarch <3" width="55" height="69"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/aa929f9d-a376-4615-b22f-892c31d2d4f9" alt="Cornstarch <3" width="55" height="69">
+<img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/aa929f9d-a376-4615-b22f-892c31d2d4f9" alt="Cornstarch <3" width="75" height="69"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/aa929f9d-a376-4615-b22f-892c31d2d4f9" alt="Cornstarch <3" width="75" height="69"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/aa929f9d-a376-4615-b22f-892c31d2d4f9" alt="Cornstarch <3" width="75" height="69"> <img src="https://github.com/Kingerthanu/CPP_TickTackToe/assets/76754592/aa929f9d-a376-4615-b22f-892c31d2d4f9" alt="Cornstarch <3" width="75" height="69">
 
 
 **Features:**
